@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the capital of France?",
+        "Options": {
+            "A": "Paris",
+            "B": "Rome",
+            "C": "Berlin",
+            "D": "Madrid"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Question": "Which river is the longest in the world?",
+        "Options": {
+            "A": "Nile",
+            "B": "Amazon",
+            "C": "Yangtze",
+            "D": "Mississippi"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "Question": "Which country is known as the Land of the Rising Sun?",
+        "Options": {
+            "A": "China",
+            "B": "India",
+            "C": "Japan",
+            "D": "South Korea"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "Question": "Which mountain range spans over seven countries in South Asia?",
+        "Options": {
+            "A": "Andes",
+            "B": "Alps",
+            "C": "Himalayas",
+            "D": "Rockies"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "Question": "What is the largest desert in the world?",
+        "Options": {
+            "A": "Sahara",
+            "B": "Gobi",
+            "C": "Arabian",
+            "D": "Kalahari"
+        },
+        "CorrectAnswer": "A"
+    }
+]
